@@ -65,7 +65,7 @@ spl_autoload_register(function($className){
 
 
 // $auth = new Auth();
-// $auth->sendMail('onlinephp.attendance@gmail.com', 'تست', '<p>test</p>');
+// $auth->sendMail('smirzaie9287@gmail.com', 'تست', '<p>test</p>');
 
 
 
